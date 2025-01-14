@@ -1,0 +1,14 @@
+Tarea #1.
+Mostrar una alerta
+
+Crea una página que muestre un mensaje "¡Soy JavaScript!".
+Hazlo en una caja de arena o en tu disco duro, no importa, solo asegúrate de que funcione.
+
+-----------------------------------------------------------------------------------------------
+
+Tarea #2.
+Mostrar una alerta con un script externo
+
+Tome la solución de la tarea anterior Mostrar una alerta. 
+Modifíquela extrayendo el contenido del script en un archivo externo alert.js, que se encuentre en la misma 
+carpeta. Abra la página y asegúrese de que la alerta funcione.
